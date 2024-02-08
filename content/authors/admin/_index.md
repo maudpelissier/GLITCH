@@ -51,7 +51,7 @@ social:
     link: 'mailto:maud.pelissier@u-paris.fr'
   - icon: hugo
     icon_pack: hb
-    link: http://maudpelissier.com
+    link: https://maudpelissier.com/
   - icon: researchgate
     label: researchgate
     icon_pack: ai
