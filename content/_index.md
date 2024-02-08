@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        GLITCH
+        ANR funded project
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **GLITCH** research project is funded by a young researcher grant from the French National Research Agency (ANR) awarded to Maud Pélissier for 2024-2028.
   
   - block: collection
     content:
