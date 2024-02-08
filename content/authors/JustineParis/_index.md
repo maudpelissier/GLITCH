@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Anne Jugnet
+title: Justine Paris
 
 # Full Name (for SEO)
-first_name: Anne
-last_name: Jugnet
+first_name: Justine
+last_name: Paris
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Maître de Conférences (Permanent lecturer) in English linguistics
+role: Maître de Conférences (Permanent lecturer) in English linguistics and didactics
 
 # Organizations/Affiliations
 organizations:
@@ -47,13 +47,13 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:anne.jugnet@u-paris.fr'
+    link: 'mailto:justine.paris@u-paris.fr'
 #  - icon: website
 #    link: https://maudpelissier.com/
-#  - icon: researchgate
+  - icon: researchgate
     label: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Anne-Jugnet
+    link: https://www.researchgate.net/profile/Justine-Paris-2
   # - display:
   #     header: false
 #  - icon: linkedin
