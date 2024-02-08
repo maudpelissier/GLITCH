@@ -49,8 +49,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:maud.pelissier@u-paris.fr'
-  - icon: hugo
-    icon_pack: hb
+  - icon: website
     link: https://maudpelissier.com/
   - icon: researchgate
     label: researchgate
