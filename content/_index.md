@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         GLITCH
-        ANR funded project
       image:
         filename: welcome.jpg
       text: |
