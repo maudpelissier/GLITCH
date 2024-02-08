@@ -11,11 +11,12 @@ sections:
         GLITCH
       image:
         filename: welcome.jpg
+        The **GLITCH** research project focuses on the role of memory in grammar learning in a second language.
+		GLITCH stands for Grammar LearnIng TeCHniques for a second language. It is funded by a young researcher grant from the French National Research Agency (ANR) awarded to Maud Pélissier for 2024-2028.
       text: |
-#        <br>
-#		#"Grammar LearnIng TeCHniques for a second language: effects of retrieval and spaced practice"
+        <br>
+        
         The **GLITCH** research project is funded by a young researcher grant from the French National Research Agency (ANR) awarded to Maud Pélissier for 2024-2028.
-  
   - block: collection
     content:
       title: Latest News
