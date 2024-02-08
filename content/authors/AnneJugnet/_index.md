@@ -50,7 +50,7 @@ social:
     link: 'mailto:anne.jugnet@u-paris.fr'
 #  - icon: website
 #    link: https://maudpelissier.com/
-#  - icon: researchgate
+  - icon: researchgate
     label: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Anne-Jugnet
