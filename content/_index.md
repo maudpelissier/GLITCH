@@ -13,7 +13,6 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
 		#"Grammar LearnIng TeCHniques for a second language: effects of retrieval and spaced practice"
         The **GLITCH** research project is funded by a young researcher grant from the French National Research Agency (ANR) awarded to Maud Pélissier for 2024-2028.
   
